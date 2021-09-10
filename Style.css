@@ -23,16 +23,16 @@ body, html{
     background-attachment:fixed;
   }
 .pimg1{
-    background-image: url('3.jfif');
+    background-image: url('images/3.jfif');
     min-height: 100%;
     max-width: 100%;
 }
 .pimg2{
-  background-image: url('pimg2.jfif');
+  background-image: url('images/pimg2.jfif');
   min-height: 700px;
 }
 .pimg3{
-  background-image: url('7.jfif');
+  background-image: url('images/7.jfif');
   min-height: 500px;
 }  
 @media(max-width:568px){
@@ -205,13 +205,13 @@ li{
 }
 
 .challenge-tile:nth-child(1){
-  background-image: url('github\ search\ app.jpg');
+  background-image: url('images/github\ search\ app.jpg');
 }
 .challenge-tile:nth-child(2){
-  background-image: url('Tip\ calculator\ app.jpg');
+  background-image: url('images/Tip\ calculator\ app.jpg');
 }
 .challenge-tile:nth-child(3){
-  background-image: url('audiophile\ webpage.jpg');
+  background-image: url('images/audiophile\ desktop.jpg');
 }
 .challenge-content{
   position: relative;
