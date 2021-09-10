@@ -14,6 +14,7 @@ Java, HTML, CSS, Bootstrap...
 # Frontend Mentor and Development
 
 This is a content management website, which have some amazing frontend projects using by which you can explore many things freely.
+Let's talk about this in details, basically for every different thing there is different creative and animated options like to get challenges(free projects) there are some rendered cards and to get resources for learning there are some options of free websites are provided with details in slideshow and to if feel it better during use then you can countiue with us by signup or login(if you already joined).
 
 
 
