@@ -1,5 +1,3 @@
-# Frontend-Mentor-Content-management-website
-
 # Hi, I'm Ritvik! 👋
 
   
